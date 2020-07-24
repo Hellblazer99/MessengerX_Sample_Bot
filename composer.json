@@ -1,0 +1,13 @@
+{
+    "name": "John/phptest",
+    "authors": [
+        {
+            "name": "John Melchior",
+            "email": "john@solutionfuse.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "firebase/php-jwt": "@dev"
+    }
+}
