@@ -202,8 +202,7 @@ function callSendAPI($messageData){
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true); 
     curl_setopt($ch, CURLOPT_HTTPHEADER, array(                                                                          
         'Content-Type: application/json',  
-        // 'api_token: <-- Please update with your api_token -->'
-        'api_token: e4d6d410-cc47-11ea-bb8b-b75d1b27b6b5'
+        // 'api_token: <-- Please update with your machaao api_token -->'
         )                                                                       
     );
 
